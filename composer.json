@@ -1,0 +1,23 @@
+{
+    "name": "mingge2016/oauthsdk",
+    "description": "第三方登录",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gong Zun Ming",
+            "email": "1013123227@qq.com"
+        }
+    ],
+    "require":
+    {
+        "php":">=5.3.0"
+    },
+    "minimum-stability": "dev",
+    "autoload":
+    {
+        "psr-4":
+        {
+            "OauthSDK\\": "src/"
+        }
+    }
+}
