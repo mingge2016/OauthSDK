@@ -6,7 +6,7 @@ QQ、微信、微博、第三方登录SDK
 使用 Composer 安装:
 
 ```
-composer require "mingge2016/oauthsdk": "dev-master"
+composer require "mingge2016/oauthsdk":"dev-master"
 ```
 
 ### 如何使用
